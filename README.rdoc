@@ -1,1 +1,3 @@
 Trips & Users & Participants demo
+
+author: panosm@techcareerbooster.com
